@@ -45,7 +45,7 @@
 
 ## 🤝 Contributions
 
-Suggestions welcome! Open a [pull request](https://github.com/dakotamin/awesome-g2-alternatives/pulls) or [issue](https://github.com/dakotamin/awesome-g2-alternatives/issues) to add your favorite tool directory.
+Suggestions welcome! Open a [pull request](https://github.com/DirectorySurf/awesome-g2-alternatives/pulls) or [issue](https://github.com/DirectorySurf/awesome-g2-alternatives/issues) to add your favorite tool directory.
 
 ---
 
