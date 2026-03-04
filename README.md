@@ -13,6 +13,7 @@
 * [SoftwareSuggest](https://www.softwaresuggest.com) – Reviews and price comparisons.
 * [SaaSworthy](https://www.saasworthy.com) – Data-driven SaaS discovery and comparisons.
 * [Startup Tools List](https://startuptoolslist.com) – Curated directory of tools for building and launching startups.
+* [Curated](https://www.curated.software/) - Directory of tools with clear pricing, easy exit, and exportable data.
 
 ---
 
