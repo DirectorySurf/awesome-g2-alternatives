@@ -22,6 +22,7 @@
 * [Remote Tools](https://www.remote.tools) – Tools and guides for remote teams and workers.
 * [ToolsForCreators](https://toolsforcreators.com) – Software and hardware recommendations for content creators.
 * [NoCodeList](https://nocodelist.co) – No-code tools for building web and mobile apps.
+* [StackSwap](https://stackswap.ai) – Compare ~400 GTM and sales tools, find stack overlaps, and audit SaaS spend.
 
 ---
 
