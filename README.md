@@ -29,6 +29,7 @@
 
 * [There's An AI For That](https://theresanai.com) – Database of AI-powered tools and apps.
 * [Futurepedia](https://www.futurepedia.io) – AI tool aggregator with daily updates.
+* [RespawnStack](https://respawnstack.com) – Curated AI tools directory for game developers.
 * [AI Scout](https://aiscout.tools) – Curated AI product discovery platform.
 * [DevHunt](https://devhunt.org) – Discover new developer tools.
 
